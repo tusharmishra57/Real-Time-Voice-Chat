@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="VOX_logo.png" alt="VOX Logo" width="120" />
+  <img src="VOX_logo.png" alt="VOX Logo" width="220" />
 </p>
 
 # AI Voice Assistant — Real-Time Full-Stack System
