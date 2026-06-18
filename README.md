@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="VOX_logo.png" alt="VOX Logo" width="120" />
+</p>
+
 # AI Voice Assistant — Real-Time Full-Stack System
 
 A production-grade, event-driven application demonstrating real-time AI voice assistant architecture using WebSockets, job queues, Redis Pub/Sub, and MongoDB.
